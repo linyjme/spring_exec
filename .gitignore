@@ -1,0 +1,6 @@
+*.DS_Store
+.idea
+*.swp
+.Trashes
+target/
+jademo.iml
